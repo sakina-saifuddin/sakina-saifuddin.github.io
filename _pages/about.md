@@ -10,8 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     📩: <a href="mailto:ssaifudd@cougarnet.uh.edu">ssaifudd@cougarnet.uh.edu</a><br>
-    5514 Griggs Rd,<br>
-    Houston, TX, USA
+    5514 Griggs Rd, Houston, TX, USA
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
