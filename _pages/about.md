@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I can still feel the weight of those early COVID pandemic days when the world seemed to pause. The news of a rapidly spreading virus filled every headline, and with it came an overwhelming question: Could this have been prevented? Amid this chaos, I found myself reflecting on a quote by Edward Deming: “In God we trust; all others must bring data.” Those words stuck with me as I started my Masters’s in Engineering Data Science at University Of Houston.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
