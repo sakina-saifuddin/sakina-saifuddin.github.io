@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: HCI Researcher. <a href='https://echolab.cs.vt.edu/'>Echolab, CS@VT</a>.
+subtitle: Healthcare ML Researcher | MS Data Science
 
 profile:
   align: right
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    mail: <a href="mailto:ssaifudd@cougarnet.uh.edu">ssaifudd@cougarnet.uh.edu</a><br>
+    📩: <a href="mailto:ssaifudd@cougarnet.uh.edu">ssaifudd@cougarnet.uh.edu</a><br>
     5514 Griggs Rd,<br>
     Houston, TX, USA
 
