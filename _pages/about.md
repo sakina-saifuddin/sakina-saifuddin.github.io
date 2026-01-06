@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Healthcare ML Researcher | MS Data Science
+subtitle: Healthcare ML Researcher · [Data Science Graduate Student](https://researchcomputing.egr.uh.edu/academic-programs/master-science-engineering-data-science)
 
 profile:
   align: right
@@ -26,7 +26,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I can still feel the weight of those early COVID pandemic days when the world seemed to pause. The news of a rapidly spreading virus filled every headline, and with it came an overwhelming question: Could this have been prevented? Amid this chaos, I found myself reflecting on a quote by Edward Deming: “In God we trust; all others must bring data.” Those words stuck with me as I started my Masters’s in Engineering Data Science at University Of Houston.
+["In God we trust; all others must bring data.”] (https://www.ibm.com/think/insights/in-god-we-trust-all-others-must-bring-data) - W. Edwards Deming
+
+The uncertainty of the early COVID pandemic made this idea deeply personal to me. As headlines filled with predictions, policies, and outcomes, I kept asking myself: How are these decisions made when lives are at stake? That question led me to pursue a Master’s in Engineering Data Science at the University of Houston, where I am currently focused on applying data-driven and machine learning approaches to real-world problems.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
