@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Healthcare ML Researcher · [Data Science And AI Graduate Student] (https://researchcomputing.egr.uh.edu/academic-programs/master-science-engineering-data-science)
+subtitle: "Healthcare ML Researcher . [Data Science And AI Graduate Student](https://researchcomputing.egr.uh.edu/academic-programs/master-science-engineering-data-science)"
 
 profile:
   align: right
