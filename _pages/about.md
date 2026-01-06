@@ -28,6 +28,6 @@ latest_posts:
 
 ["In God we trust; all others must bring data.”](https://www.ibm.com/think/insights/in-god-we-trust-all-others-must-bring-data) - W. Edwards Deming
 
-The uncertainty of the early COVID pandemic made this idea deeply personal to me. As headlines filled with predictions, policies, and outcomes, I kept asking myself: How are these decisions made when lives are at stake? That question led me to pursue a Master’s in Engineering Data Science And AI at the University of Houston, where I am currently focused on applying data-driven and machine learning approaches to real-world problems.
+The uncertainty of the early COVID pandemic made this idea deeply personal to me. As headlines filled with predictions, policies, and outcomes, I kept asking myself: How are these decisions made when lives are at stake? That question led me to pursue a [Master’s in Engineering Data Science And AI at the University of Houston](https://researchcomputing.egr.uh.edu/academic-programs/master-science-engineering-data-science), where I am currently focused on applying data-driven and machine learning approaches to real-world problems.
 
 
