@@ -37,7 +37,7 @@ My path into data science has been intentionally multidisciplinary. While pursui
 
 Wanting to focus more deeply on insights rather than infrastructure, I later moved into Business Intelligence, working with SQL, Power BI, and Tableau to analyze and communicate data for decision-making for one of the most renowned banks in Pakistan, [**UBL**](https://www.ubldigital.com/). This experience reinforced a principle that continues to guide my work: meaningful machine learning begins with strong data analysis.
 
-A turning point came during my undergraduate studies at Iqra University, I conducted research under the supervision of [**Fahad Najeeb**](https://scholar.google.com/citations?user=GSqYcGMAAAAJ&hl=en) on developing machine learning models to classify [**Harmful Brain Activities using EEG signal data from Kaggle**](https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification). Working with neurological data raised questions that guided my work even further:
+A turning point came during my undergraduate studies at Iqra University, where I conducted a research under the supervision of [**Fahad Najeeb**](https://scholar.google.com/citations?user=GSqYcGMAAAAJ&hl=en) on developing machine learning models to classify [**Harmful Brain Activities using EEG signal data from Kaggle**](https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification). Working with neurological data raised questions that guided my work even further:
 
 - How reliable are machine learning models in high-stakes domains?
 - What role does careful data analysis play in model trustworthiness?
