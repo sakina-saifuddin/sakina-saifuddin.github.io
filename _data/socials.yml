@@ -53,6 +53,6 @@ linkedin_username: sakinasaifuddin # your LinkedIn user name
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
 custom_social: # can be any name here other than the ones already defined above
-  logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
+  logo: smm.png # can be png, svg, jpg
   title: Social Media Management Portfolio
   url: https://drive.google.com/file/d/1yFfHcmxUl6rf3VtdfVxpHN1tRj5F4H2u/view
