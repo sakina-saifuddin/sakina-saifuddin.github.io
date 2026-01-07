@@ -24,13 +24,95 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
+      "name": "Department of Mathematics, University of Houston",
+      "location": "Houston, TX, USA",
+      "position": "Graduate Research Assistant (NSM)",
+      "url": "https://www.uh.edu/nsm/math/",
+      "startDate": "2026-02-07",
       "summary": "Working under Prof. Demetrio Labate on identifying neuronal soma location and morphology from fluorescence microscopy images.",
       "highlights": ["Built image-processing and analysis workflows using ImageJ/Fiji to study and measure neuronal structures across 1,000+ images.", "Assisted with data preparation, feature extraction, and result validation to support healthcare-focused machine learning research."]
+    },
+    {
+      "name": "A.D. Bruce Religion Center, University of Houston",
+      "position": "Marketing Assistant",
+      "location": "Houston, TX, USA",
+      "url": "https://www.instagram.com/adbrcuh/?hl=en",
+      "startDate": "2025-08-28",
+      "summary": "Digital content analyst at the A.D. Bruce Religion Center, leveraging data-driven insights to optimize social media strategy.",
+      "highlights": [
+        "Analyzed 12+ months of historical engagement data to optimize content strategy, increasing reach and interaction by 30%+." ,
+        "Planned and evaluated data-driven posting schedules, improving average engagement rates by 20%.",
+        "Translated performance insights into actionable recommendations to guide future campaigns and digital strategy."
+      ]
+    },
+     {
+      "name": "BluTech Consulting",
+      "position": "Business Intelligence Consultant",
+      "location": "Karachi, Pakistan",
+      "url": "https://blutechconsulting.com/",
+      "startDate": "2025-04-02",
+      "endDate": "2025-08-14",
+      "summary": "Worked as a Consultant for UBL to help them streamline reporting processes, enhance decision-making, and drive strategic initiatives through effective data visualization and analysis.",
+      "highlights": [
+        "Built 10+ interactive dashboards using Power BI and Tableau for United Bank Limited (Pakistan’s #1 bank) to support data-driven decision-making.",
+        "Wrote SQL, Teradata SQL, and HiveQL queries to extract, clean, and transform datasets with 500K+ records.",
+        "Identified performance trends and operational bottlenecks, reducing reporting turnaround time by 25%.",
+        "Translated technical data into clear, actionable insights for non-technical stakeholders."
+      ]
+    },
+      {
+      "name": "SoftSyncDev",
+      "position": "Software Engineer (MERN Stack)",
+      "location": "Karachi, Pakistan",
+      "url": "https://softsyncdev.com/",
+      "startDate": "2023-10-15",
+      "endDate": "2025-03-30",
+      "summary": "Progressed from intern to full-time engineer, developing and deploying 5+ full-stack applications using MongoDB, Express, React, and Node.js.",
+      "highlights": [
+        "Designed and implemented RESTful APIs and structured databases to support scalable data workflows.",
+        "Optimized backend services, improving data retrieval and application performance by 40%.",
+        "Structured and designed databases for management systems, applying SQL skills acquired during university coursework.",
+        "Integrated secure payment systems (Stripe, PayPal) across 3+ client projects, ensuring reliable transaction handling and data integrity."
+      ]
+    },
+     {
+      "name": "Iqra University",
+      "position": "Undergraduate Teaching Assistant",
+      "location": "Karachi, Pakistan",
+      "url": "https://iqra.edu.pk/",
+      "startDate": "2023-10-15",
+      "endDate": "2025-03-30",
+      "summary": "Instructional support for multiple CS courses.",
+      "highlights": [
+        "Supported courses in Databases, Programming, and Statistics for 100+ undergraduate students.",
+        "Led tutorial sessions on SQL, C#, and basic statistical concepts, helping students strengthen problem-solving skills.",
+        "Reviewed assignments and exams and provided feedback that helped improve overall student performance by about 15%."
+      ]
+    },
+    {
+      "name": "The Walnut Agency",
+      "position": "Performance Analyst",
+      "location": "Karachi, Pakistan",
+      "url": "https://www.instagram.com/the_walnut_agency/?hl=en",
+      "startDate": "2022-08-15",
+      "endDate": "2025-08-14",
+      "summary": "Managed social media and community engagement for diverse clients",
+      "highlights": [
+        "Managed digital performance for 50+ clients, analyzing engagement metrics to drive 60%+ organic growth.",
+        "Tracked KPIs, identified content trends, and optimized campaigns, increasing conversions by 25%+.",
+        "Produced monthly data-backed performance reports to guide client strategy and decision-making.",
+        "Collaborated cross-functionally to align creative output with measurable performance goals."
+      ]
+    },
+    {
+      "name": "App Masters",
+      "position": "Growth Analyst",
+      "location": "Danville, VA, USA",
+      "url": "https://appmasters.com/",
+      "startDate": "2023-02-17",
+      "endDate": "2025-05-17",
+      "summary": "Created data-driven content calendars and short-form video content focused on ASO and ASA strategies.",
+      "highlights": ["Analyzed content performance metrics to refine messaging, improving engagement rates by 20%+."]
     }
   ],
   "volunteer": [
