@@ -132,8 +132,7 @@
       "studyType": "B.S.",
       "startDate": "2022-02-02",
       "endDate": "2025-01-30"
-    },
-     
+    }
   ],
   "volunteer": [
     {
@@ -153,11 +152,25 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
+      "title": "Iutechies'22",
       "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "awarder": "Iqra University",
+      "url": "https://drive.google.com/file/d/1OaYADRj57gcfNuUHEqbzCT79Me7roeFm/view?usp=drive_link",
+      "summary": "Participated in the iutechies'22 event organized by Iqra University and won the Speed Programming competition, where teams of Computer Science students tackled coding questions quickly and efficiently within a specific timeframe. "
+    },
+    {
+      "title": "Iutechies'22",
+      "date": "1921-11-01",
+      "awarder": "Iqra University",
+      "url": "https://drive.google.com/file/d/1OaYADRj57gcfNuUHEqbzCT79Me7roeFm/view?usp=drive_link",
+      "summary": "Participated in the iutechies'22 event organized by Iqra University and won the Speed Programming competition, where teams of Computer Science students tackled coding questions quickly and efficiently within a specific timeframe. "
+    },
+    {
+      "title": "Iutechies'22",
+      "date": "2022-09-01",
+      "awarder": "Iqra University",
+      "url": "https://drive.google.com/file/d/1OaYADRj57gcfNuUHEqbzCT79Me7roeFm/view?usp=drive_link",
+      "summary": "Participated in the iutechies'22 event organized by Iqra University and won the Speed Programming competition, where teams of Computer Science students tackled coding questions quickly and efficiently within a specific timeframe. "
     }
   ],
   "certificates": [
