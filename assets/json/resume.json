@@ -1,24 +1,25 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Sakina Saifuddin",
+    "label": "Data Science And AI Graduate Student @ University of Houston",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "ssaifudd@cougarnet.uh.edu",
+    "phone": "(346) 870-0136",
+    "url": "https://sakina-saifuddin.github.io",
+    "summary": "A Data Science graduate exploring how machine learning and data analysis can support reliable decision-making in real-world systems, with current research interests in 
+    healthcare-focused analytics and model evaluation. My work draws on experience across analytics, software engineering, and applied research to build and evaluate data-driven models with practical impact.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "5514 Griggs Rd",
+      "postalCode": "TX 77021",
+      "city": "Houston",
       "countryCode": "US",
-      "region": "California"
+      "region": "Texas"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Website",
+        "username": "sakina-saifuddin.github.io",
+        "url": "https://sakina-saifuddin.github.io"
       }
     ]
   },
