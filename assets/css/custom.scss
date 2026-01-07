@@ -2,18 +2,20 @@
   color: #000000;
   font-weight: 300;
 }
-
+.sr-only{
+   color: #b14230; 
+  font-weight: 500;
+}
 /* Darker red + bold emphasis */
 
 .text-danger,
-a,
-a:hover {
-  color: #b11226; /* darker crimson red */
-  font-weight: 700;
+a{
+  color: #b14230; /* darker crimson red */
+  font-weight: 500;
 }
 
 /* Style first name (Sakina) only */
 .post-title span {
-  color: #b11226;   /* dark red */
+  color: #96291e;   /* dark red */
   font-weight: 800;
 }
