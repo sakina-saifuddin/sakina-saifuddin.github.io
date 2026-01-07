@@ -271,17 +271,14 @@
   "languages": [
     {
       "language": "English",
-      "fluency": "Native speaker",
       "icon": ""
     },
     {
       "language": "Urdu",
-      "fluency": "Fluent",
       "icon": ""
     },
     {
       "language": "Gujrati",
-      "fluency": "Fluent",
       "icon": ""
     }
   ],
