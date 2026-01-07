@@ -1,1 +1,13 @@
+/* Darker red + bold emphasis */
+.text-danger,
+a,
+a:hover {
+  color: #b11226; /* darker crimson red */
+  font-weight: 700;
+}
+
+.first-name {
+  color: #b11226;
+  font-weight: 800;
+}
 
