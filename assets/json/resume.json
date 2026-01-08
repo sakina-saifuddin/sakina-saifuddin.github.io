@@ -274,9 +274,8 @@
       "name": "Machine Learning and Data Analytics",
       "keywords": [
         "Applied Data Science",
-        "Healthcare Analytics",
         "Machine Learning for Healthcare Applications",
-        "Medical Imaging & Signal Data Analysis (EEG, Microscopy)",
+        "Medical Imaging & Signal Data Analysis",
         "Data Analytics & Business Intelligence",
         "SQL-Based Data Analysis and Visualization",
         "Model Evaluation, Validation, and Interpretability",
@@ -316,6 +315,18 @@
       "startDate": "2025-12-02",
       "endDate": "2025-12-15",
       "url": "https://youtu.be/XImy-Cd7E9c"
+    },
+    {
+      "name": " Analysis of High Grossing Movies",
+      "summary": "Analysis of highest-grossing movies using box office revenue, studio, rank, and release year.",
+      "highlights": [
+        "Data cleaning and feature preparation for regression-based modeling",
+        "Ranking analysis to study revenue patterns and studio performance",
+        "Evaluation of trends across studios, years, and high-performing films."
+      ],
+      "startDate": "2025-09-14",
+      "endDate": "2025-09-14",
+      "url": "https://github.com/sakina-saifuddin/Data-Science-Projects/tree/main/Analysis%20of%20High-Grossing%20Movies"
     }
   ]
 }
