@@ -1,7 +1,7 @@
 ---
 layout: page
 title: projects
-permalink: /projects/
+permalink: https://sakina-saifuddin.github.io/cv/#projects-1
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 3
