@@ -21,7 +21,7 @@ ninja.data = [{
           description: "A growing collection of your cool projects.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/projects/";
+            window.location.href = "/https:/sakina-saifuddin.github.io/cv/#projects-1";
           },
         },{id: "nav-cv",
           title: "cv",
