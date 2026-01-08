@@ -287,7 +287,7 @@
   "projects": [
     {
       "name": "HMS - Harmful Brain Activity Classification",
-      "summary": "EEG signal classification project using a public Kaggle dataset to study harmful brain activity patterns",
+      "summary": "EEG signal classification project using a public Kaggle dataset to study harmful brain activity patterns.",
       "highlights": [
         "CNN and EfficientNetB0 model development for seizure detection",
         "Evaluation of model performance using Kullback–Leibler divergence"
