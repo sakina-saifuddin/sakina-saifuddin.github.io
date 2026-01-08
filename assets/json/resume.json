@@ -317,7 +317,7 @@
       "url": "https://youtu.be/XImy-Cd7E9c"
     },
     {
-      "name": " Analysis of High Grossing Movies",
+      "name": " Analyzing of High Grossing Movies",
       "summary": "Analysis of highest-grossing movies using box office revenue, studio, rank, and release year.",
       "highlights": [
         "Data cleaning and feature preparation for regression-based modeling",
@@ -327,6 +327,17 @@
       "startDate": "2025-09-14",
       "endDate": "2025-09-14",
       "url": "https://github.com/sakina-saifuddin/Data-Science-Projects/tree/main/Analysis%20of%20High-Grossing%20Movies"
+    },
+    {
+      "name": " Analyzing of House Prices in Australia (2016)",
+      "summary": "Analysis of Melbourne housing sales data (2016) using property, location, and sale-related features",
+      "highlights": [
+        "House price prediction using Melbourne housing data (2016)",
+        "Regression analysis to study factors affecting property values"
+      ],
+      "startDate": "2025-10-04",
+      "endDate": "2025-10-04",
+      "url": "https://github.com/sakina-saifuddin/Data-Science-Projects/tree/main/Analysis%20of%20House%20Prices%20in%20Australia%20(2016)"
     }
   ]
 }
