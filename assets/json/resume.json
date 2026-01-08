@@ -295,6 +295,16 @@
       "startDate": "2024-08-01",
       "endDate": "2025-01-01",
       "url": "https://github.com/sakina-saifuddin/Data-Science-Projects/tree/main/Harmful%20Brain%20Activity%20Classification"
+    },
+    {
+      "name": "Titanic Survival Prediction Using Naïve Bayes",
+      "summary": "Passenger survival prediction using demographic and travel features.",
+      "highlights": [
+        "Naïve Bayes classification for probability-based outcome estimation."
+      ],
+      "startDate": "2025-12-02",
+      "endDate": "2025-12-15",
+      "url": "https://github.com/sakina-saifuddin/Data-Science-Projects/tree/main/Titanic%20Survival%20Prediction%20using%20Naive%20Bayes"
     }
   ]
 }
