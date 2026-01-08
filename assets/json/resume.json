@@ -338,6 +338,21 @@
       "startDate": "2025-10-04",
       "endDate": "2025-10-04",
       "url": "https://github.com/sakina-saifuddin/Data-Science-Projects/tree/main/Analysis%20of%20House%20Prices%20in%20Australia%20(2016)"
+    },
+     {
+      "name": "Event Discovery & Ticketing Web Application ",
+      "summary": "ADeveloped a full-stack event discovery and ticketing platform using Next.js and TypeScript",
+      "highlights": [
+        "Built an admin dashboard to add, update, and remove events dynamically",
+        "Implemented backend services using Node.js, handling APIs for both admin and user workflows",
+        "Designed and managed the database using phpMyAdmin (MySQL)",
+        "Integrated frontend and backend through RESTful APIs for real-time data updates",
+        "Worked on both frontend and backend development end-to-end",
+        "Project was not fully deployed due to internal company decisions"
+      ],
+      "startDate": "2024-01-04",
+      "endDate": "2024-05-24",
+      "url": "https://www.eventplugg.com/"
     }
   ]
 }
