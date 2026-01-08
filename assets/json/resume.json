@@ -305,6 +305,17 @@
       "startDate": "2025-12-02",
       "endDate": "2025-12-15",
       "url": "https://github.com/sakina-saifuddin/Data-Science-Projects/tree/main/Titanic%20Survival%20Prediction%20using%20Naive%20Bayes"
+    },
+    {
+      "name": "Analyzing Global University Rankings (2020–2025)",
+      "summary": "CWUR ranking data collection and analysis (2020–2025)",
+      "highlights": [
+        "Comparison of university and country performance over time.",
+        "Analysis of key ranking factors"
+      ],
+      "startDate": "2025-12-02",
+      "endDate": "2025-12-15",
+      "url": "https://github.com/sakina-saifuddin/Data-Science-Projects/tree/main/Titanic%20Survival%20Prediction%20using%20Naive%20Bayes"
     }
   ]
 }
