@@ -341,16 +341,16 @@
       "url": "https://github.com/sakina-saifuddin/Data-Science-Projects/tree/main/Analysis%20of%20House%20Prices%20in%20Australia%20(2016)"
     },
     {
-      "name": "Busy Bodies – Fitness Mobile Application",
+      "name": " Busy Bodies – Fitness Mobile Application",
       "summary": "Developed a full-stack fitness mobile application using React Native (TypeScript) with a Node.js backend and AWS S3 for dynamic video uploads.",
       "highlights": [
-    "Built a cross-platform mobile app using React Native and TypeScript for iOS devices",
-    "Developed backend APIs using Node.js to handle user workflows and workout data",
-    "Integrated AWS S3 to support secure video uploads and on-demand workout video streaming",
-    "Implemented end-to-end communication between frontend and backend using RESTful APIs",
-    "Designed features for creating and managing custom workout routines",
-    "Worked end-to-end across frontend, backend, and cloud storage integration"
-  ],
+        "Built a cross-platform mobile app using React Native and TypeScript for iOS devices",
+        "Developed backend APIs using Node.js to handle user workflows and workout data",
+        "Integrated AWS S3 to support secure video uploads and on-demand workout video streaming",
+        "Implemented end-to-end communication between frontend and backend using RESTful APIs",
+        "Designed features for creating and managing custom workout routines",
+        "Worked end-to-end across frontend, backend, and cloud storage integration"
+      ],
       "startDate": "2025-02-01",
       "endDate": "2025-05-15",
       "url": "https://youtu.be/YAShaqJhUos"
